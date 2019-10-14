@@ -1,0 +1,16 @@
+#!/bin/zsh
+echo hi
+for i in {1..5}
+    do
+        #./mvnw compile quarkus:dev | grep "started in" >> quarkus-log &
+        ./target/quarkus_perf_test-1.0-SNAPSHOT-runner -Dquarkus.http.host=0.0.0.0 >> quarkus-log &
+        sleep 1m
+        id=$!
+        echo id $id
+        ab -n 100000 -c 3 http://localhost:8080/test/memory/lotsofarrays | grep "Time taken for tests:"
+        ab -t 60 -n 100000000 -c 3 http://localhost:8080/test/memory/lotsofarrays | grep "Complete requests:"
+        ab -t 300 -n 100000000 -c 3 http://localhost:8080/test/memory/lotsofarrays | grep "Complete requests:"
+        ab -t 600 -n 100000000 -c 3 http://localhost:8080/test/memory/lotsofarrays | grep "Complete requests:"
+		kill -2 $id
+        sleep 1m
+	done

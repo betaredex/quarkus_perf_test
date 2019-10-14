@@ -1,0 +1,30 @@
+2019-09-24 14:22:06,478 INFO  [io.quarkus] (main) Quarkus 0.21.1 started in 0.007s. Listening on: http://[::]:8080
+2019-09-24 14:22:06,478 INFO  [io.quarkus] (main) Installed features: [cdi, resteasy]
+2019-09-24 14:39:27,949 INFO  [io.quarkus] (main) Quarkus stopped in 0.000s
+2019-09-24 14:40:27,959 INFO  [io.quarkus] (main) Quarkus 0.21.1 started in 0.003s. Listening on: http://[::]:8080
+2019-09-24 14:40:27,959 INFO  [io.quarkus] (main) Installed features: [cdi, resteasy]
+2019-09-24 14:57:49,447 INFO  [io.quarkus] (main) Quarkus stopped in 0.000s
+2019-09-24 14:58:49,456 INFO  [io.quarkus] (main) Quarkus 0.21.1 started in 0.003s. Listening on: http://[::]:8080
+2019-09-24 14:58:49,456 INFO  [io.quarkus] (main) Installed features: [cdi, resteasy]
+2019-09-24 15:16:10,926 INFO  [io.quarkus] (main) Quarkus stopped in 0.000s
+2019-09-24 15:17:10,943 INFO  [io.quarkus] (main) Quarkus 0.21.1 started in 0.009s. Listening on: http://[::]:8080
+2019-09-24 15:17:10,943 INFO  [io.quarkus] (main) Installed features: [cdi, resteasy]
+2019-09-24 15:34:32,246 INFO  [io.quarkus] (main) Quarkus stopped in 0.001s
+2019-09-24 15:35:32,260 INFO  [io.quarkus] (main) Quarkus 0.21.1 started in 0.008s. Listening on: http://[::]:8080
+2019-09-24 15:35:32,260 INFO  [io.quarkus] (main) Installed features: [cdi, resteasy]
+2019-09-24 15:52:53,463 INFO  [io.quarkus] (main) Quarkus stopped in 0.000s
+2019-09-24 15:58:36,862 INFO  [io.quarkus] (main) Quarkus 0.21.1 started in 0.006s. Listening on: http://[::]:8080
+2019-09-24 15:58:36,862 INFO  [io.quarkus] (main) Installed features: [cdi, resteasy]
+2019-09-24 16:16:03,629 INFO  [io.quarkus] (main) Quarkus stopped in 0.000s
+2019-09-24 16:17:03,639 INFO  [io.quarkus] (main) Quarkus 0.21.1 started in 0.004s. Listening on: http://[::]:8080
+2019-09-24 16:17:03,639 INFO  [io.quarkus] (main) Installed features: [cdi, resteasy]
+2019-09-24 16:34:30,069 INFO  [io.quarkus] (main) Quarkus stopped in 0.000s
+2019-09-24 16:35:30,077 INFO  [io.quarkus] (main) Quarkus 0.21.1 started in 0.003s. Listening on: http://[::]:8080
+2019-09-24 16:35:30,077 INFO  [io.quarkus] (main) Installed features: [cdi, resteasy]
+2019-09-24 16:52:56,568 INFO  [io.quarkus] (main) Quarkus stopped in 0.000s
+2019-09-24 16:53:56,577 INFO  [io.quarkus] (main) Quarkus 0.21.1 started in 0.003s. Listening on: http://[::]:8080
+2019-09-24 16:53:56,577 INFO  [io.quarkus] (main) Installed features: [cdi, resteasy]
+2019-09-24 17:11:23,083 INFO  [io.quarkus] (main) Quarkus stopped in 0.001s
+2019-09-24 17:12:23,093 INFO  [io.quarkus] (main) Quarkus 0.21.1 started in 0.003s. Listening on: http://[::]:8080
+2019-09-24 17:12:23,093 INFO  [io.quarkus] (main) Installed features: [cdi, resteasy]
+2019-09-24 17:29:49,397 INFO  [io.quarkus] (main) Quarkus stopped in 0.000s
